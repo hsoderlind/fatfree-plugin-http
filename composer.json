@@ -1,0 +1,11 @@
+{
+    "name": "hsoderlind/fatfree-plugin-http",
+    "description": "Some helper classes for handling HTTP requests",
+    "require": {
+        "php" ">=5.3.6",
+        "ramsey/uuid": ">=3.6.1"
+    },
+    "autoload": {
+        "psr-4": {"Hsoderlind\\FatfreePlugins\\Http": "src/"}
+    }
+}
