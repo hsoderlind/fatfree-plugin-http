@@ -6,6 +6,6 @@
         "ramsey/uuid": ">=3.6.1"
     },
     "autoload": {
-        "psr-4": {"Hsoderlind\\FatfreePlugins\\Http": "src/"}
+        "psr-4": {"Hsoderlind\\FatfreePlugins\\Http\\": "src/"}
     }
 }
